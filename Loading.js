@@ -3,7 +3,7 @@ import { StyleSheet, Text, View} from "react-native";
 
 export default function Loading(){
     return <View style={styles.container}>
-        <Text style={styles.text}>Getting the weather for your location</Text>
+        <Text style={styles.text}>Getting the weather of your location</Text>
     </View>
 }
 
